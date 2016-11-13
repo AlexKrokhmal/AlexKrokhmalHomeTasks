@@ -1,0 +1,6 @@
+E:\Programming\C# NICE\2nd try\Hometask_2 - FizzBuzz-2\bin\Debug\Hometask_2 - FizzBuzz-2.exe.config
+E:\Programming\C# NICE\2nd try\Hometask_2 - FizzBuzz-2\bin\Debug\Hometask_2 - FizzBuzz-2.exe
+E:\Programming\C# NICE\2nd try\Hometask_2 - FizzBuzz-2\bin\Debug\Hometask_2 - FizzBuzz-2.pdb
+E:\Programming\C# NICE\2nd try\Hometask_2 - FizzBuzz-2\obj\Debug\Hometask_2 - FizzBuzz-2.csprojResolveAssemblyReference.cache
+E:\Programming\C# NICE\2nd try\Hometask_2 - FizzBuzz-2\obj\Debug\Hometask_2 - FizzBuzz-2.exe
+E:\Programming\C# NICE\2nd try\Hometask_2 - FizzBuzz-2\obj\Debug\Hometask_2 - FizzBuzz-2.pdb

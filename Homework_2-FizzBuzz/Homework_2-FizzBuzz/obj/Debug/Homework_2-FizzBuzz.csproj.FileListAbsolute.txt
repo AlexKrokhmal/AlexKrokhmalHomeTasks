@@ -1,0 +1,6 @@
+E:\Programming\C# NICE\2nd try\Homework_2-FizzBuzz\Homework_2-FizzBuzz\bin\Debug\Homework_2-FizzBuzz.exe.config
+E:\Programming\C# NICE\2nd try\Homework_2-FizzBuzz\Homework_2-FizzBuzz\bin\Debug\Homework_2-FizzBuzz.exe
+E:\Programming\C# NICE\2nd try\Homework_2-FizzBuzz\Homework_2-FizzBuzz\bin\Debug\Homework_2-FizzBuzz.pdb
+E:\Programming\C# NICE\2nd try\Homework_2-FizzBuzz\Homework_2-FizzBuzz\obj\Debug\Homework_2-FizzBuzz.csprojResolveAssemblyReference.cache
+E:\Programming\C# NICE\2nd try\Homework_2-FizzBuzz\Homework_2-FizzBuzz\obj\Debug\Homework_2-FizzBuzz.exe
+E:\Programming\C# NICE\2nd try\Homework_2-FizzBuzz\Homework_2-FizzBuzz\obj\Debug\Homework_2-FizzBuzz.pdb
