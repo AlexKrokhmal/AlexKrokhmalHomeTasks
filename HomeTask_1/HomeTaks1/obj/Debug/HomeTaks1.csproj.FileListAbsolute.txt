@@ -1,0 +1,6 @@
+E:\Programming\C# NICE\2nd try\HomeTaks1\HomeTaks1\bin\Debug\HomeTaks1.exe.config
+E:\Programming\C# NICE\2nd try\HomeTaks1\HomeTaks1\bin\Debug\HomeTaks1.exe
+E:\Programming\C# NICE\2nd try\HomeTaks1\HomeTaks1\bin\Debug\HomeTaks1.pdb
+E:\Programming\C# NICE\2nd try\HomeTaks1\HomeTaks1\obj\Debug\HomeTaks1.csprojResolveAssemblyReference.cache
+E:\Programming\C# NICE\2nd try\HomeTaks1\HomeTaks1\obj\Debug\HomeTaks1.exe
+E:\Programming\C# NICE\2nd try\HomeTaks1\HomeTaks1\obj\Debug\HomeTaks1.pdb
